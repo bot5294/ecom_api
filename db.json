@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Fan",
+      "desc": "A ceiling Fan, made up of plastic has 3 wings...",
+      "price":"799",
+      "rating":"2"
+    },
+    {
+      "name": "Table Fan",
+      "desc": "A Table Fan, made up of plastic has 4 wings...",
+      "price":"399",
+      "rating":"3"
+    },
+    {
+      "name": "Mobile",
+      "desc": "An Android mobile phone with super amoled display...",
+      "price":"7999",
+      "rating":"4"
+    },
+    {
+      "name": "Laptop",
+      "desc": "Asus Rog laptop with amd ryzen 5 processor...",
+      "price":"79999",
+      "rating":"5"
+    }
+  ]
+}
