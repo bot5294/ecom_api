@@ -4,24 +4,28 @@
       "name": "Fan",
       "desc": "A ceiling Fan, made up of plastic has 3 wings...",
       "price":"799",
+      "img":"https://m.media-amazon.com/images/I/61ZNPmIdDuL._AC_UY218_.jpg",
       "rating":"2"
     },
     {
       "name": "Table Fan",
       "desc": "A Table Fan, made up of plastic has 4 wings...",
       "price":"399",
+      "img":"https://m.media-amazon.com/images/I/71JysSCqhgL._AC_UY218_.jpg",
       "rating":"3"
     },
     {
       "name": "Mobile",
       "desc": "An Android mobile phone with super amoled display...",
       "price":"7999",
+      "img":"https://m.media-amazon.com/images/I/71V--WZVUIL._AC_UY218_.jpg",
       "rating":"4"
     },
     {
       "name": "Laptop",
       "desc": "Asus Rog laptop with amd ryzen 5 processor...",
       "price":"79999",
+      "img":"https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UY218_.jpg",
       "rating":"5"
     }
   ]
